@@ -77,3 +77,8 @@ source_metadata:
   - http://purl.bdrc.io/resource/W1KG1795
 created_at: '2021-12-24T17:15:46.509026'
 last_modified_at: '2021-12-24T17:15:46.509039'
+statistics:
+  total_words: 67878
+  total_non_words: 7295
+quality:
+  non_words_ratio: 0.11
